@@ -1,0 +1,12 @@
+-- reset all tables
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS roles;
+DROP TABLE IF EXISTS FLAG;
+DROP TABLE IF EXISTS secrets;
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS quantity_def;
+DROP TABLE IF EXISTS transactions;
+DROP TABLE IF EXISTS messages;
+DROP TABLE IF EXISTS customers;
+DROP TABLE IF EXISTS employee_wine_lottery;
+DROP TABLE IF EXISTS vigenere;

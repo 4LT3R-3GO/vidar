@@ -1,0 +1,251 @@
+[+] Starting Final Multi-Seed Evaluation...
+------------------------------------------------------------
+Episode 1
+[+] Successfully extracted database: Total Extracted rows: 411/411 | Total extracted tables: 9/9 | Extracted tables: ['users', 'employee_wine_lottery', 'roles', 'customers', 'transactions', 'secrets', 'quantity_def', 'products', 'vignere']
+[+] STAGE 6 SOLVED | Step: 63 | Complexity: 9 | Reward: 6.125
+Episode 1 total reward: 5.536
+------------------------------------------------------------
+Episode 2
+[+] Successfully extracted database: Total Extracted rows: 1045/1045 | Total extracted tables: 9/9 | Extracted tables: ['transactions', 'roles', 'users', 'employee_wine_lottery', 'customers', 'products', 'quantity_def', 'messages', 'vignere']
+[+] STAGE 6 SOLVED | Step: 53 | Complexity: 4 | Reward: 6.0701754385964914
+Episode 2 total reward: 5.741
+------------------------------------------------------------
+Episode 3
+[+] Successfully extracted database: Total Extracted rows: 734/734 | Total extracted tables: 5/5 | Extracted tables: ['roles', 'messages', 'quantity_def', 'vignere', 'employee_wine_lottery']
+[+] STAGE 6 SOLVED | Step: 33 | Complexity: 4 | Reward: 6.108108108108108
+Episode 3 total reward: 6.229
+------------------------------------------------------------
+Episode 4
+[+] Successfully extracted database: Total Extracted rows: 408/408 | Total extracted tables: 8/8 | Extracted tables: ['transactions', 'vignere', 'products', 'employee_wine_lottery', 'customers', 'users', 'quantity_def', 'secrets']
+[+] STAGE 6 SOLVED | Step: 45 | Complexity: 2 | Reward: 6.021739130434783
+Episode 4 total reward: 5.879
+------------------------------------------------------------
+Episode 5
+[+] Successfully extracted database: Total Extracted rows: 334/334 | Total extracted tables: 6/6 | Extracted tables: ['roles', 'products', 'quantity_def', 'vignere', 'employee_wine_lottery', 'transactions']
+[+] STAGE 6 SOLVED | Step: 48 | Complexity: 9 | Reward: 6.157894736842105
+Episode 5 total reward: 5.909
+------------------------------------------------------------
+Episode 6
+[+] Successfully extracted database: Total Extracted rows: 996/996 | Total extracted tables: 7/7 | Extracted tables: ['messages', 'transactions', 'users', 'secrets', 'customers', 'quantity_def', 'vignere']
+[+] STAGE 6 SOLVED | Step: 42 | Complexity: 3 | Reward: 6.045454545454545
+Episode 6 total reward: 5.965
+------------------------------------------------------------
+Episode 7
+[+] Successfully extracted database: Total Extracted rows: 808/808 | Total extracted tables: 5/5 | Extracted tables: ['secrets', 'messages', 'employee_wine_lottery', 'products', 'customers']
+[+] STAGE 6 SOLVED | Step: 33 | Complexity: 4 | Reward: 6.108108108108108
+Episode 7 total reward: 6.229
+------------------------------------------------------------
+Episode 8
+[+] Successfully extracted database: Total Extracted rows: 340/340 | Total extracted tables: 6/6 | Extracted tables: ['quantity_def', 'transactions', 'vignere', 'users', 'customers', 'products']
+[+] STAGE 6 SOLVED | Step: 38 | Complexity: 4 | Reward: 6.095238095238095
+Episode 8 total reward: 6.107
+------------------------------------------------------------
+Episode 9
+[+] Successfully extracted database: Total Extracted rows: 313/313 | Total extracted tables: 4/4 | Extracted tables: ['transactions', 'products', 'employee_wine_lottery', 'users']
+[+] STAGE 6 SOLVED | Step: 44 | Complexity: 12 | Reward: 6.214285714285714
+Episode 9 total reward: 6.027
+------------------------------------------------------------
+Episode 10
+[+] Successfully extracted database: Total Extracted rows: 291/291 | Total extracted tables: 3/3 | Extracted tables: ['secrets', 'transactions', 'customers']
+[+] STAGE 6 SOLVED | Step: 24 | Complexity: 4 | Reward: 6.111111111111111
+Episode 10 total reward: 6.412
+------------------------------------------------------------
+Episode 11
+[+] Successfully extracted database: Total Extracted rows: 1033/1033 | Total extracted tables: 6/6 | Extracted tables: ['messages', 'customers', 'transactions', 'products', 'secrets', 'employee_wine_lottery']
+[+] STAGE 6 SOLVED | Step: 44 | Complexity: 7 | Reward: 6.137254901960784
+Episode 11 total reward: 5.993
+------------------------------------------------------------
+Episode 12
+[+] Successfully extracted database: Total Extracted rows: 111/111 | Total extracted tables: 4/4 | Extracted tables: ['quantity_def', 'products', 'employee_wine_lottery', 'secrets']
+[+] STAGE 6 SOLVED | Step: 27 | Complexity: 3 | Reward: 6.068965517241379
+Episode 12 total reward: 6.317
+------------------------------------------------------------
+Episode 13
+[+] Successfully extracted database: Total Extracted rows: 733/733 | Total extracted tables: 4/4 | Extracted tables: ['messages', 'users', 'vignere', 'secrets']
+[+] STAGE 6 SOLVED | Step: 28 | Complexity: 4 | Reward: 6.125
+Episode 13 total reward: 6.353
+------------------------------------------------------------
+Episode 14
+[+] Successfully extracted database: Total Extracted rows: 783/783 | Total extracted tables: 7/7 | Extracted tables: ['messages', 'roles', 'quantity_def', 'vignere', 'products', 'users', 'customers']
+[+] STAGE 6 SOLVED | Step: 47 | Complexity: 6 | Reward: 6.113207547169811
+Episode 14 total reward: 5.909
+------------------------------------------------------------
+Episode 15
+[+] Successfully extracted database: Total Extracted rows: 972/972 | Total extracted tables: 5/5 | Extracted tables: ['messages', 'secrets', 'users', 'products', 'transactions']
+[+] STAGE 6 SOLVED | Step: 41 | Complexity: 8 | Reward: 6.163265306122449
+Episode 15 total reward: 6.076
+------------------------------------------------------------
+Episode 16
+[+] Successfully extracted database: Total Extracted rows: 43/43 | Total extracted tables: 2/2 | Extracted tables: ['quantity_def', 'products']
+[+] STAGE 6 SOLVED | Step: 17 | Complexity: 3 | Reward: 6.105263157894736
+Episode 16 total reward: 6.562
+------------------------------------------------------------
+Episode 17
+[+] Successfully extracted database: Total Extracted rows: 29/29 | Total extracted tables: 2/2 | Extracted tables: ['quantity_def', 'vignere']
+[+] STAGE 6 SOLVED | Step: 20 | Complexity: 5 | Reward: 6.2
+Episode 17 total reward: 6.585
+------------------------------------------------------------
+Episode 18
+[+] Successfully extracted database: Total Extracted rows: 975/975 | Total extracted tables: 6/6 | Extracted tables: ['transactions', 'users', 'quantity_def', 'messages', 'secrets', 'products']
+[+] STAGE 6 SOLVED | Step: 62 | Complexity: 16 | Reward: 6.205128205128205
+Episode 18 total reward: 5.593
+------------------------------------------------------------
+Episode 19
+[+] Successfully extracted database: Total Extracted rows: 1030/1030 | Total extracted tables: 8/8 | Extracted tables: ['secrets', 'transactions', 'vignere', 'messages', 'quantity_def', 'employee_wine_lottery', 'roles', 'products']
+[+] STAGE 6 SOLVED | Step: 47 | Complexity: 3 | Reward: 6.040816326530612
+Episode 19 total reward: 5.846
+------------------------------------------------------------
+Episode 20
+[+] Successfully extracted database: Total Extracted rows: 1010/1010 | Total extracted tables: 8/8 | Extracted tables: ['quantity_def', 'secrets', 'roles', 'employee_wine_lottery', 'users', 'customers', 'messages', 'transactions']
+[+] STAGE 6 SOLVED | Step: 81 | Complexity: 20 | Reward: 6.1899999999999995
+Episode 20 total reward: 5.117
+------------------------------------------------------------
+Episode 21
+[+] Successfully extracted database: Total Extracted rows: 1045/1045 | Total extracted tables: 9/9 | Extracted tables: ['messages', 'vignere', 'quantity_def', 'customers', 'transactions', 'products', 'roles', 'employee_wine_lottery', 'users']
+[+] STAGE 6 SOLVED | Step: 50 | Complexity: 2 | Reward: 6.019607843137255
+Episode 21 total reward: 5.762
+------------------------------------------------------------
+Episode 22
+[+] Successfully extracted database: Total Extracted rows: 75/75 | Total extracted tables: 2/2 | Extracted tables: ['customers', 'products']
+[+] STAGE 6 SOLVED | Step: 26 | Complexity: 8 | Reward: 6.235294117647059
+Episode 22 total reward: 6.465
+------------------------------------------------------------
+Episode 23
+[+] Successfully extracted database: Total Extracted rows: 103/103 | Total extracted tables: 3/3 | Extracted tables: ['products', 'vignere', 'employee_wine_lottery']
+[+] STAGE 6 SOLVED | Step: 20 | Complexity: 2 | Reward: 6.0476190476190474
+Episode 23 total reward: 6.453
+------------------------------------------------------------
+Episode 24
+[+] Successfully extracted database: Total Extracted rows: 300/300 | Total extracted tables: 5/5 | Extracted tables: ['roles', 'vignere', 'transactions', 'customers', 'users']
+[+] STAGE 6 SOLVED | Step: 78 | Complexity: 26 | Reward: 6.242718446601941
+Episode 24 total reward: 5.192
+------------------------------------------------------------
+Episode 25
+[+] Successfully extracted database: Total Extracted rows: 239/239 | Total extracted tables: 3/3 | Extracted tables: ['users', 'transactions', 'roles']
+[+] STAGE 6 SOLVED | Step: 47 | Complexity: 16 | Reward: 6.253968253968254
+Episode 25 total reward: 5.964
+------------------------------------------------------------
+Episode 26
+[+] Successfully extracted database: Total Extracted rows: 840/840 | Total extracted tables: 8/8 | Extracted tables: ['employee_wine_lottery', 'quantity_def', 'secrets', 'roles', 'messages', 'products', 'customers', 'vignere']
+[+] STAGE 6 SOLVED | Step: 45 | Complexity: 2 | Reward: 6.021739130434783
+Episode 26 total reward: 5.879
+------------------------------------------------------------
+Episode 27
+[+] Successfully extracted database: Total Extracted rows: 802/802 | Total extracted tables: 6/6 | Extracted tables: ['messages', 'employee_wine_lottery', 'vignere', 'secrets', 'quantity_def', 'products']
+[+] STAGE 6 SOLVED | Step: 40 | Complexity: 5 | Reward: 6.111111111111111
+Episode 27 total reward: 6.071
+------------------------------------------------------------
+Episode 28
+[+] Successfully extracted database: Total Extracted rows: 999/999 | Total extracted tables: 8/8 | Extracted tables: ['secrets', 'quantity_def', 'transactions', 'messages', 'users', 'customers', 'vignere', 'roles']
+[+] STAGE 6 SOLVED | Step: 45 | Complexity: 2 | Reward: 6.021739130434783
+Episode 28 total reward: 5.879
+------------------------------------------------------------
+Episode 29
+[+] Successfully extracted database: Total Extracted rows: 411/411 | Total extracted tables: 9/9 | Extracted tables: ['employee_wine_lottery', 'vignere', 'transactions', 'customers', 'products', 'quantity_def', 'secrets', 'users', 'roles']
+[+] STAGE 6 SOLVED | Step: 76 | Complexity: 15 | Reward: 6.155555555555555
+Episode 29 total reward: 5.227
+------------------------------------------------------------
+Episode 30
+[+] Successfully extracted database: Total Extracted rows: 959/959 | Total extracted tables: 5/5 | Extracted tables: ['vignere', 'messages', 'transactions', 'products', 'quantity_def']
+[+] STAGE 6 SOLVED | Step: 51 | Complexity: 13 | Reward: 6.203125
+Episode 30 total reward: 5.856
+------------------------------------------------------------
+Episode 31
+[+] Successfully extracted database: Total Extracted rows: 362/362 | Total extracted tables: 6/6 | Extracted tables: ['employee_wine_lottery', 'transactions', 'quantity_def', 'vignere', 'products', 'secrets']
+[+] STAGE 6 SOLVED | Step: 54 | Complexity: 12 | Reward: 6.181818181818182
+Episode 31 total reward: 5.777
+------------------------------------------------------------
+Episode 32
+[+] Successfully extracted database: Total Extracted rows: 742/742 | Total extracted tables: 3/3 | Extracted tables: ['messages', 'products', 'employee_wine_lottery']
+[+] STAGE 6 SOLVED | Step: 46 | Complexity: 15 | Reward: 6.233333333333333
+Episode 32 total reward: 5.967
+------------------------------------------------------------
+Episode 33
+[+] Successfully extracted database: Total Extracted rows: 1007/1007 | Total extracted tables: 7/7 | Extracted tables: ['vignere', 'employee_wine_lottery', 'quantity_def', 'transactions', 'messages', 'users', 'products']
+[+] STAGE 6 SOLVED | Step: 43 | Complexity: 4 | Reward: 6.085106382978724
+Episode 33 total reward: 5.985
+------------------------------------------------------------
+Episode 34
+[+] Successfully extracted database: Total Extracted rows: 276/276 | Total extracted tables: 4/4 | Extracted tables: ['roles', 'transactions', 'employee_wine_lottery', 'users']
+[+] STAGE 6 SOLVED | Step: 27 | Complexity: 3 | Reward: 6.068965517241379
+Episode 34 total reward: 6.317
+------------------------------------------------------------
+Episode 35
+[+] Successfully extracted database: Total Extracted rows: 308/308 | Total extracted tables: 6/6 | Extracted tables: ['secrets', 'quantity_def', 'customers', 'users', 'transactions', 'roles']
+[+] STAGE 6 SOLVED | Step: 67 | Complexity: 18 | Reward: 6.2023809523809526
+Episode 35 total reward: 5.458
+------------------------------------------------------------
+Episode 36
+[+] Successfully extracted database: Total Extracted rows: 837/837 | Total extracted tables: 7/7 | Extracted tables: ['products', 'messages', 'secrets', 'customers', 'employee_wine_lottery', 'quantity_def', 'vignere']
+[+] STAGE 6 SOLVED | Step: 90 | Complexity: 27 | Reward: 6.224137931034482
+Episode 36 total reward: 4.900
+------------------------------------------------------------
+Episode 37
+[+] Successfully extracted database: Total Extracted rows: 694/694 | Total extracted tables: 3/3 | Extracted tables: ['vignere', 'messages', 'quantity_def']
+[+] STAGE 6 SOLVED | Step: 47 | Complexity: 16 | Reward: 6.253968253968254
+Episode 37 total reward: 5.964
+------------------------------------------------------------
+Episode 38
+[+] Successfully extracted database: Total Extracted rows: 1041/1041 | Total extracted tables: 9/9 | Extracted tables: ['messages', 'users', 'employee_wine_lottery', 'secrets', 'products', 'quantity_def', 'roles', 'transactions', 'vignere']
+[+] STAGE 6 SOLVED | Step: 52 | Complexity: 3 | Reward: 6.037037037037037
+Episode 38 total reward: 5.727
+------------------------------------------------------------
+Episode 39
+[+] Successfully extracted database: Total Extracted rows: 1073/1073 | Total extracted tables: 9/9 | Extracted tables: ['users', 'employee_wine_lottery', 'messages', 'transactions', 'vignere', 'customers', 'secrets', 'roles', 'products']
+[+] STAGE 6 SOLVED | Step: 53 | Complexity: 4 | Reward: 6.0701754385964914
+Episode 39 total reward: 5.741
+------------------------------------------------------------
+Episode 40
+[+] Successfully extracted database: Total Extracted rows: 376/376 | Total extracted tables: 8/8 | Extracted tables: ['quantity_def', 'transactions', 'users', 'vignere', 'secrets', 'products', 'employee_wine_lottery', 'roles']
+[+] STAGE 6 SOLVED | Step: 45 | Complexity: 2 | Reward: 6.021739130434783
+Episode 40 total reward: 5.879
+------------------------------------------------------------
+Episode 41
+[+] Successfully extracted database: Total Extracted rows: 260/260 | Total extracted tables: 2/2 | Extracted tables: ['transactions', 'customers']
+[+] STAGE 6 SOLVED | Step: 59 | Complexity: 24 | Reward: 6.280487804878049
+Episode 41 total reward: 5.650
+------------------------------------------------------------
+Episode 42
+[+] Successfully extracted database: Total Extracted rows: 776/776 | Total extracted tables: 5/5 | Extracted tables: ['employee_wine_lottery', 'messages', 'secrets', 'roles', 'products']
+[+] STAGE 6 SOLVED | Step: 33 | Complexity: 4 | Reward: 6.108108108108108
+Episode 42 total reward: 6.229
+------------------------------------------------------------
+Episode 43
+[+] Successfully extracted database: Total Extracted rows: 379/379 | Total extracted tables: 6/6 | Extracted tables: ['products', 'users', 'customers', 'employee_wine_lottery', 'transactions', 'secrets']
+[+] STAGE 6 SOLVED | Step: 37 | Complexity: 3 | Reward: 6.051282051282051
+Episode 43 total reward: 6.082
+------------------------------------------------------------
+Episode 44
+[+] Successfully extracted database: Total Extracted rows: 339/339 | Total extracted tables: 6/6 | Extracted tables: ['roles', 'products', 'secrets', 'employee_wine_lottery', 'quantity_def', 'transactions']
+[+] STAGE 6 SOLVED | Step: 42 | Complexity: 6 | Reward: 6.125
+Episode 44 total reward: 6.032
+------------------------------------------------------------
+Episode 45
+[+] Successfully extracted database: Total Extracted rows: 996/996 | Total extracted tables: 7/7 | Extracted tables: ['transactions', 'secrets', 'messages', 'users', 'vignere', 'customers', 'roles']
+[+] STAGE 6 SOLVED | Step: 45 | Complexity: 5 | Reward: 6.1
+Episode 45 total reward: 5.948
+------------------------------------------------------------
+Episode 46
+[+] Successfully extracted database: Total Extracted rows: 817/817 | Total extracted tables: 7/7 | Extracted tables: ['customers', 'users', 'vignere', 'quantity_def', 'messages', 'employee_wine_lottery', 'products']
+[+] STAGE 6 SOLVED | Step: 51 | Complexity: 8 | Reward: 6.135593220338983
+Episode 46 total reward: 5.828
+------------------------------------------------------------
+Episode 47
+[+] Successfully extracted database: Total Extracted rows: 1036/1036 | Total extracted tables: 8/8 | Extracted tables: ['transactions', 'vignere', 'messages', 'secrets', 'customers', 'quantity_def', 'products', 'users']
+[+] STAGE 6 SOLVED | Step: 45 | Complexity: 2 | Reward: 6.021739130434783
+Episode 47 total reward: 5.879
+------------------------------------------------------------
+Episode 48
+[+] Successfully extracted database: Total Extracted rows: 80/80 | Total extracted tables: 4/4 | Extracted tables: ['vignere', 'users', 'products', 'quantity_def']
+[+] STAGE 6 SOLVED | Step: 51 | Complexity: 15 | Reward: 6.2153846153846155
+Episode 48 total reward: 5.844
+------------------------------------------------------------
+Episode 49
+[+] Successfully extracted database: Total Extracted rows: 299/299 | Total extracted tables: 4/4 | Extracted tables: ['products', 'secrets', 'transactions', 'quantity_def']
+[+] STAGE 6 SOLVED | Step: 28 | Complexity: 4 | Reward: 6.125
+Episode 49 total reward: 6.353
+------------------------------------------------------------
+Episode 50
+[+] Successfully extracted database: Total Extracted rows: 160/160 | Total extracted tables: 7/7 | Extracted tables: ['employee_wine_lottery', 'quantity_def', 'customers', 'secrets', 'users', 'roles', 'products']
+[+] STAGE 6 SOLVED | Step: 43 | Complexity: 4 | Reward: 6.085106382978724
+Episode 50 total reward: 5.985
